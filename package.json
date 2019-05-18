@@ -1,0 +1,9 @@
+{
+  "name": "js-n5rjfv",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "init": "^0.1.2",
+    "jquery": "^3.4.1"
+  }
+}
